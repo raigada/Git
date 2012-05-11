@@ -6,6 +6,8 @@ public class nuevo2 {
 	 */
 	public static void main(String[] args) {
 		System.out.println("probando ");
+		
+		System.out.println("2a accion ");
 
 	}
 
