@@ -10,6 +10,8 @@ public class nuevo2 {
 		System.out.println("2a accion ");
 		
 		System.out.println("rama master, cambio 1 ");
+		
+		System.out.println("rama master, cambio 2 ");
 
 	}
 
