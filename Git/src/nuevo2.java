@@ -22,6 +22,7 @@ public class nuevo2 {
 		System.out.println("rama 1, cambio 2 , de verdad");
 		
 		a=a+2;
+		a=a+3;
 	}
 
 }
